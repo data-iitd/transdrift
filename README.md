@@ -12,7 +12,7 @@ In modern NLP applications, word embeddings are a crucial backbone that can be r
 @unpublished{
 TransDrift,
 title={TransDrift: Modeling Word-Embedding Drift using Transformer},
-author={ Nishant Kumar and Prateek Chaudhury and Nishtha Madaan and Srikanta Bedathur},
+author={Nishant Kumar and Prateek Chaudhury and Nishtha Madaan and Srikanta Bedathur},
 url={https://arxiv.org/abs/2206.08081}
 }
 ```
